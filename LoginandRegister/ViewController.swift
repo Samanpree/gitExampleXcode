@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var loginButton: UIButton!
     
-    var radius1 = 67
+    var radius1 = 21
     
     override func viewDidLoad() {
         super.viewDidLoad()
