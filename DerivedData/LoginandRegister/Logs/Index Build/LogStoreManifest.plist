@@ -6,6 +6,40 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>1D7F95F5-56F0-4B92-A42E-437E440C85A5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>1D7F95F5-56F0-4B92-A42E-437E440C85A5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>661194061.09044194</real>
+			<key>timeStoppedRecording</key>
+			<real>661194061.42702699</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>1D7F95F5-56F0-4B92-A42E-437E440C85A5</string>
+		</dict>
 		<key>1D89C0E3-2869-4A75-B64A-94EB9719135C</key>
 		<dict>
 			<key>className</key>
@@ -39,6 +73,142 @@
 			<string>LoginandRegister Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>1D89C0E3-2869-4A75-B64A-94EB9719135C</string>
+		</dict>
+		<key>4132D53D-1D95-4994-830E-64534A933CA4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>4132D53D-1D95-4994-830E-64534A933CA4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>661194061.43747497</real>
+			<key>timeStoppedRecording</key>
+			<real>661194061.58576405</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>4132D53D-1D95-4994-830E-64534A933CA4</string>
+		</dict>
+		<key>4CF07AAE-4790-48A2-9065-C01EE56EBF94</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>4CF07AAE-4790-48A2-9065-C01EE56EBF94.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>LoginandRegister Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>661194095.42686605</real>
+			<key>timeStoppedRecording</key>
+			<real>661194095.63857806</real>
+			<key>title</key>
+			<string>LoginandRegister Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>4CF07AAE-4790-48A2-9065-C01EE56EBF94</string>
+		</dict>
+		<key>F2D0891B-6F72-4E77-B7E0-3BE97601762D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>F2D0891B-6F72-4E77-B7E0-3BE97601762D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>LoginandRegister Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>661194061.43791604</real>
+			<key>timeStoppedRecording</key>
+			<real>661194061.49916697</real>
+			<key>title</key>
+			<string>LoginandRegister Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>F2D0891B-6F72-4E77-B7E0-3BE97601762D</string>
+		</dict>
+		<key>F6EF23DD-E3D1-4171-A57F-6F511AA149ED</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>F6EF23DD-E3D1-4171-A57F-6F511AA149ED.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>LoginandRegister Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>661194061.50285399</real>
+			<key>timeStoppedRecording</key>
+			<real>661194061.96171904</real>
+			<key>title</key>
+			<string>LoginandRegister Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>F6EF23DD-E3D1-4171-A57F-6F511AA149ED</string>
 		</dict>
 	</dict>
 </dict>
