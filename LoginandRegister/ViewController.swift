@@ -15,17 +15,18 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var loginButton: UIButton!
     
-    var radius = 21
+    var radius1 = 67
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
         
-        UserTextField.layer.cornerRadius = CGFloat(radius)
+        UserTextField.layer.cornerRadius = CGFloat(radius1)
         
-        PasswordTextField.layer.cornerRadius = CGFloat(radius)
+        PasswordTextField.layer.cornerRadius = CGFloat(radius1)
         
-        loginButton.layer.cornerRadius = CGFloat(radius)    }
+        loginButton.layer.cornerRadius = CGFloat(radius1)    }
 
 
 }
