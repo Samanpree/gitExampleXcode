@@ -26,7 +26,9 @@ class ViewController: UIViewController {
         
         PasswordTextField.layer.cornerRadius = CGFloat(radius1)
         
-        loginButton.layer.cornerRadius = CGFloat(radius1)    }
+        loginButton.layer.cornerRadius = CGFloat(radius1)
+        print("don...")
+    }
 
 
 }
